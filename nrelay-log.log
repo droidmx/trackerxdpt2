@@ -1,0 +1,230 @@
+Log Start (time: 1538580046367)
+MESSAGE [11:20:46 | NRelay]           Starting...
+INFO    [11:20:46 | NRelay]           Checking for updates...
+INFO    [11:20:46 | NRelay]           Adding ASE
+INFO    [11:20:46 | Http]             Establishing proxy for GET request.
+INFO    [11:20:46 | ResourceManager]  Loaded 1283 tiles.
+INFO    [11:20:47 | ResourceManager]  Loaded 8435 objects.
+INFO    [11:20:47 | PluginManager]    Loaded Key Notifier by Lolization
+INFO    [11:20:47 | PluginManager]    Loaded Player Tracker by tcrane
+INFO    [11:20:47 | PluginManager]    Loaded RealmTrack by Fluttar
+SUCCESS [11:20:47 | Player Tracker]   Enabled tracking for all clients.
+INFO    [11:20:47 | NRelay]           Adding AE
+INFO    [11:20:47 | Http]             Establishing proxy for GET request.
+INFO    [11:20:48 | NRelay]           Adding AUS
+INFO    [11:20:48 | Http]             Establishing proxy for GET request.
+INFO    [11:20:50 | NRelay]           Adding EUE
+INFO    [11:20:50 | Http]             Establishing proxy for GET request.
+SUCCESS [11:20:50 | Http]             Established proxy!
+INFO    [11:20:50 | NRelay]           Adding EUW
+INFO    [11:20:50 | Http]             Establishing proxy for GET request.
+INFO    [11:20:51 | NRelay]           Adding EUW2
+INFO    [11:20:51 | Http]             Establishing proxy for GET request.
+INFO    [11:20:52 | NRelay]           Adding EUN2
+INFO    [11:20:52 | Http]             Establishing proxy for GET request.
+INFO    [11:20:53 | AE]               Starting connection to AsiaEast
+INFO    [11:20:53 | AE]               Establishing proxy
+SUCCESS [11:20:53 | NRelay]           Authorized AE
+INFO    [11:20:53 | NRelay]           Adding EUN
+INFO    [11:20:53 | Http]             Establishing proxy for GET request.
+INFO    [11:20:54 | NRelay]           Adding EUS
+INFO    [11:20:54 | Http]             Establishing proxy for GET request.
+SUCCESS [11:20:55 | Http]             Established proxy!
+INFO    [11:20:55 | NRelay]           Adding EUSW
+INFO    [11:20:55 | Http]             Establishing proxy for GET request.
+INFO    [11:20:56 | NRelay]           Adding USS
+INFO    [11:20:56 | Http]             Establishing proxy for GET request.
+SUCCESS [11:20:57 | AE]               Established proxy!
+SUCCESS [11:20:57 | AE]               Connected to AsiaEast!
+INFO    [11:20:57 | AE]               Connecting to Nexus
+INFO    [11:20:57 | NRelay]           Adding USS2
+INFO    [11:20:57 | Http]             Establishing proxy for GET request.
+INFO    [11:20:58 | EUW]              Starting connection to EUWest
+INFO    [11:20:58 | EUW]              Establishing proxy
+SUCCESS [11:20:58 | NRelay]           Authorized EUW
+SUCCESS [11:20:58 | Http]             Established proxy!
+SUCCESS [11:20:58 | AE]               Connected!
+INFO    [11:20:58 | NRelay]           Adding USS3
+INFO    [11:20:58 | Http]             Establishing proxy for GET request.
+SUCCESS [11:20:59 | Http]             Established proxy!
+INFO    [11:20:59 | EUN2]             Starting connection to EUNorth2
+INFO    [11:20:59 | EUN2]             Establishing proxy
+SUCCESS [11:20:59 | NRelay]           Authorized EUN2
+INFO    [11:21:00 | NRelay]           Adding USW
+INFO    [11:21:00 | Http]             Establishing proxy for GET request.
+INFO    [11:21:00 | NRelay]           Adding USW2
+INFO    [11:21:01 | Http]             Establishing proxy for GET request.
+INFO    [11:21:01 | NRelay]           Adding USW3
+INFO    [11:21:01 | Http]             Establishing proxy for GET request.
+SUCCESS [11:21:02 | Http]             Established proxy!
+SUCCESS [11:21:02 | Http]             Established proxy!
+SUCCESS [11:21:02 | EUN2]             Established proxy!
+SUCCESS [11:21:02 | EUN2]             Connected to EUNorth2!
+INFO    [11:21:02 | NRelay]           Adding USE
+INFO    [11:21:02 | Http]             Establishing proxy for GET request.
+INFO    [11:21:03 | EUN2]             Connecting to Nexus
+INFO    [11:21:03 | EUSW]             Starting connection to EUSouthWest
+INFO    [11:21:03 | EUSW]             Establishing proxy
+SUCCESS [11:21:03 | NRelay]           Authorized EUSW
+SUCCESS [11:21:03 | Http]             Established proxy!
+INFO    [11:21:03 | NRelay]           Adding USE2
+INFO    [11:21:03 | Http]             Establishing proxy for GET request.
+SUCCESS [11:21:04 | Http]             Established proxy!
+SUCCESS [11:21:04 | EUN2]             Connected!
+INFO    [11:21:04 | ASE]              Starting connection to AsiaSouthEast
+INFO    [11:21:04 | ASE]              Establishing proxy
+SUCCESS [11:21:04 | NRelay]           Authorized ASE
+INFO    [11:21:04 | USW]              Starting connection to USWest
+INFO    [11:21:04 | USW]              Establishing proxy
+SUCCESS [11:21:04 | NRelay]           Authorized USW
+INFO    [11:21:04 | NRelay]           Adding USE3
+INFO    [11:21:04 | Http]             Establishing proxy for GET request.
+SUCCESS [11:21:05 | Http]             Established proxy!
+SUCCESS [11:21:05 | Http]             Established proxy!
+INFO    [11:21:05 | NRelay]           Adding USMW
+INFO    [11:21:05 | Http]             Establishing proxy for GET request.
+INFO    [11:21:05 | EUW2]             Starting connection to EUWest2
+INFO    [11:21:05 | EUW2]             Establishing proxy
+SUCCESS [11:21:05 | NRelay]           Authorized EUW2
+INFO    [11:21:06 | USW3]             Starting connection to USWest3
+INFO    [11:21:06 | USW3]             Establishing proxy
+SUCCESS [11:21:06 | NRelay]           Authorized USW3
+INFO    [11:21:06 | USW2]             Starting connection to USWest2
+INFO    [11:21:06 | USW2]             Establishing proxy
+SUCCESS [11:21:06 | NRelay]           Authorized USW2
+INFO    [11:21:06 | NRelay]           Adding USMW2
+INFO    [11:21:06 | Http]             Establishing proxy for GET request.
+SUCCESS [11:21:07 | Http]             Established proxy!
+SUCCESS [11:21:07 | Http]             Established proxy!
+INFO    [11:21:07 | NRelay]           Adding USNW
+INFO    [11:21:07 | Http]             Establishing proxy for GET request.
+SUCCESS [11:21:08 | Http]             Established proxy!
+INFO    [11:21:08 | NRelay]           Adding USSW
+INFO    [11:21:08 | Http]             Establishing proxy for GET request.
+INFO    [11:21:09 | USS2]             Starting connection to USSouth2
+INFO    [11:21:09 | USS2]             Establishing proxy
+SUCCESS [11:21:09 | NRelay]           Authorized USS2
+SUCCESS [11:21:09 | EUSW]             Established proxy!
+SUCCESS [11:21:09 | EUSW]             Connected to EUSouthWest!
+SUCCESS [11:21:09 | Http]             Established proxy!
+SUCCESS [11:21:09 | EUW2]             Established proxy!
+SUCCESS [11:21:09 | EUW2]             Connected to EUWest2!
+INFO    [11:21:09 | USE3]             Starting connection to USEast3
+INFO    [11:21:09 | USE3]             Establishing proxy
+SUCCESS [11:21:09 | NRelay]           Authorized USE3
+INFO    [11:21:09 | EUSW]             Connecting to Nexus
+SUCCESS [11:21:09 | USW3]             Established proxy!
+SUCCESS [11:21:09 | USW3]             Connected to USWest3!
+SUCCESS [11:21:09 | ASE]              Established proxy!
+SUCCESS [11:21:09 | ASE]              Connected to AsiaSouthEast!
+INFO    [11:21:09 | EUW2]             Connecting to Nexus
+INFO    [11:21:09 | USW3]             Connecting to Nexus
+INFO    [11:21:09 | USS3]             Starting connection to USSouth3
+INFO    [11:21:10 | USS3]             Establishing proxy
+SUCCESS [11:21:10 | NRelay]           Authorized USS3
+ERROR   [11:21:10 | NRelay]           AUS: connect ETIMEDOUT 70.166.38.80:1080
+INFO    [11:21:10 | ASE]              Connecting to Nexus
+SUCCESS [11:21:10 | EUW]              Established proxy!
+SUCCESS [11:21:10 | EUW]              Connected to EUWest!
+SUCCESS [11:21:10 | USW3]             Connected!
+MESSAGE [11:21:10 | RealmTrack]       Teatotal
+SUCCESS [11:21:10 | EUSW]             Connected!
+ERROR   [11:21:11 | NRelay]           EUE: connect ETIMEDOUT 70.166.38.80:1080
+INFO    [11:21:11 | EUW]              Connecting to Nexus
+SUCCESS [11:21:11 | EUW2]             Connected!
+INFO    [11:21:11 | USE]              Starting connection to USEast
+INFO    [11:21:11 | USE]              Establishing proxy
+SUCCESS [11:21:11 | NRelay]           Authorized USE
+MESSAGE [11:21:11 | RealmTrack]       Teatotal
+INFO    [11:21:11 | USMW]             Starting connection to USMidWest
+INFO    [11:21:11 | USMW]             Establishing proxy
+SUCCESS [11:21:11 | NRelay]           Authorized USMW
+SUCCESS [11:21:11 | ASE]              Connected!
+SUCCESS [11:21:11 | USW]              Established proxy!
+SUCCESS [11:21:11 | USW]              Connected to USWest!
+SUCCESS [11:21:12 | EUW]              Connected!
+INFO    [11:21:12 | USW]              Connecting to Nexus
+SUCCESS [11:21:13 | USW]              Connected!
+ERROR   [11:21:15 | NRelay]           EUN: connect ETIMEDOUT 70.166.38.80:1080
+ERROR   [11:21:15 | NRelay]           EUS: connect ETIMEDOUT 70.166.38.80:1080
+SUCCESS [11:21:17 | USE]              Established proxy!
+SUCCESS [11:21:17 | USE]              Connected to USEast!
+INFO    [11:21:17 | USE]              Connecting to Nexus
+SUCCESS [11:21:17 | USW2]             Established proxy!
+SUCCESS [11:21:17 | USW2]             Connected to USWest2!
+INFO    [11:21:17 | USW2]             Connecting to Nexus
+ERROR   [11:21:17 | NRelay]           USS: connect ETIMEDOUT 70.166.38.80:1080
+SUCCESS [11:21:18 | USW2]             Connected!
+SUCCESS [11:21:20 | Http]             Established proxy!
+SUCCESS [11:21:22 | USMW]             Established proxy!
+SUCCESS [11:21:22 | USMW]             Connected to USMidWest!
+INFO    [11:21:22 | USMW2]            Starting connection to USMidWest2
+INFO    [11:21:22 | USMW2]            Establishing proxy
+SUCCESS [11:21:22 | NRelay]           Authorized USMW2
+INFO    [11:21:23 | USMW]             Connecting to Nexus
+SUCCESS [11:21:24 | USMW]             Connected!
+ERROR   [11:21:25 | NRelay]           USE2: connect ETIMEDOUT 70.166.38.80:1080
+ERROR   [11:21:29 | NRelay]           USNW: connect ETIMEDOUT 70.166.38.80:1080
+SUCCESS [11:21:30 | USMW2]            Established proxy!
+SUCCESS [11:21:30 | USMW2]            Connected to USMidWest2!
+ERROR   [11:21:30 | USS2]             Error establishing proxy
+ERROR   [11:21:30 | USS2]             Error: connect ETIMEDOUT 70.166.38.80:1080
+SUCCESS [11:21:30 | Http]             Established proxy!
+INFO    [11:21:30 | USMW2]            Connecting to Nexus
+ERROR   [11:21:30 | USE3]             Error establishing proxy
+ERROR   [11:21:30 | USE3]             Error: connect ETIMEDOUT 70.166.38.80:1080
+ERROR   [11:21:31 | USS3]             Error establishing proxy
+ERROR   [11:21:31 | USS3]             Error: connect ETIMEDOUT 70.166.38.80:1080
+SUCCESS [11:21:31 | USMW2]            Connected!
+INFO    [11:21:31 | USSW]             Starting connection to USSouthWest
+INFO    [11:21:31 | USSW]             Establishing proxy
+SUCCESS [11:21:31 | NRelay]           Authorized USSW
+SUCCESS [11:21:31 | USE]              Connected!
+SUCCESS [11:21:36 | USSW]             Established proxy!
+SUCCESS [11:21:36 | USSW]             Connected to USSouthWest!
+INFO    [11:21:37 | USSW]             Connecting to Nexus
+SUCCESS [11:21:38 | USSW]             Connected!
+MESSAGE [11:21:39 | RealmTrack]       Cynergyou
+MESSAGE [11:21:46 | Droid's Dominion] Droidurloo was seen somewhere omg wtf bbq
+WARNING [11:21:48 | USE]              The connection to USEast was closed.
+MESSAGE [11:21:49 | USE]              Reconnecting in 5 seconds
+INFO    [11:21:54 | USE]              Establishing proxy
+MESSAGE [11:21:59 | RealmTrack]       Evolva
+ERROR   [11:22:15 | USE]              Error establishing proxy
+ERROR   [11:22:15 | USE]              Error: connect ETIMEDOUT 70.166.38.80:1080
+MESSAGE [11:22:21 | RealmTrack]       Cynergyou
+MESSAGE [11:22:32 | Droid's Dominion] Droidurloo was seen somewhere omg wtf bbq
+MESSAGE [11:22:52 | RealmTrack]       Cynergyou
+ERROR   [11:23:15 | USE]              Error finding path: Cannot read property '40299' of null
+MESSAGE [11:23:16 | Key Notifier]     TryToBeatM
+MESSAGE [11:23:19 | RealmTrack]       Cynergyou
+ERROR   [11:23:26 | USE]              Error finding path: Cannot read property '40299' of null
+MESSAGE [11:24:37 | RealmTrack]       Cynergyou
+ERROR   [11:24:56 | USE]              Error finding path: Cannot read property '40299' of null
+ERROR   [11:25:07 | USE]              Error finding path: Cannot read property '40299' of null
+MESSAGE [11:26:30 | Droid's Dominion] Droidurloo was seen somewhere omg wtf bbq
+ERROR   [11:26:37 | USE]              Error finding path: Cannot read property '40299' of null
+ERROR   [11:26:48 | USE]              Error finding path: Cannot read property '40299' of null
+MESSAGE [11:26:51 | Droid's Dominion] Droidurloo was seen somewhere omg wtf bbq
+MESSAGE [11:27:07 | RealmTrack]       Cynergyou
+MESSAGE [11:27:22 | RealmTrack]       Cynergyou
+MESSAGE [11:28:03 | RealmTrack]       Cynergyou
+ERROR   [11:28:18 | USE]              Error finding path: Cannot read property '40299' of null
+MESSAGE [11:28:21 | RealmTrack]       Cynergyou
+MESSAGE [11:28:22 | Droid's Dominion] Droidurloo was seen somewhere omg wtf bbq
+ERROR   [11:28:29 | USE]              Error finding path: Cannot read property '40299' of null
+MESSAGE [11:28:45 | RealmTrack]       Cynergyou
+ERROR   [11:29:21 | EUSW]             Received socket error: read ECONNRESET
+WARNING [11:29:21 | EUSW]             The connection to EUSouthWest was closed.
+MESSAGE [11:29:21 | EUSW]             Reconnecting in 5 seconds
+INFO    [11:29:26 | EUSW]             Establishing proxy
+SUCCESS [11:29:29 | EUSW]             Established proxy!
+SUCCESS [11:29:29 | EUSW]             Connected to EUSouthWest!
+INFO    [11:29:29 | EUSW]             Connecting to Nexus
+MESSAGE [11:29:29 | Droid's Dominion] Droidurloo was seen somewhere omg wtf bbq
+SUCCESS [11:29:30 | EUSW]             Connected!
+MESSAGE [11:29:31 | RealmTrack]       Cynergyou
+MESSAGE [11:29:33 | RealmTrack]       expoldzibo
+MESSAGE [11:29:47 | RealmTrack]       MazeChris
+MESSAGE [11:29:53 | Droid's Dominion] Droidurloo was seen somewhere omg wtf bbq
+ERROR   [11:29:59 | USE]              Error finding path: Cannot read property '40299' of null

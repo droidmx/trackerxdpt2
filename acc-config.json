@@ -1,0 +1,236 @@
+{
+    "buildVersion": "X29.0.1",
+    "accounts": [
+        {
+            "alias": "ASE",
+            "guid": "beefer1ase@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "AsiaSouthEast",      
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "AE",
+            "guid": "beefer1ae@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "AsiaEast",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "AUS",
+            "guid": "beefer1aus@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "Australia",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "EUE",
+            "guid": "beefer1eue@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "EUEast",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "EUW",
+            "guid": "beefer1euw@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "EUWest",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+	    {
+            "alias": "EUW2",
+            "guid": "beefer1euw2@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "EUWest2",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "EUN2",
+            "guid": "beefer1eun2@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "EUNorth2",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "EUN",
+            "guid": "beefer1eun@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "EUNorth",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "EUS",
+            "guid": "beefer1eus@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "EUSouth",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "EUSW",
+            "guid": "beefer1eusw@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "EUSouthWest",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USS",
+            "guid": "beefer1uss@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USSouth",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USS2",
+            "guid": "beefer1uss2@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USSouth2",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USS3",
+            "guid": "beefer1uss3@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USSouth3",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USW",
+            "guid": "beefer1usw@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USWest",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USW2",
+            "guid": "beefer1usw2@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USWest2",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USW3",
+            "guid": "beefer1usw3@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USWest3",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USE",
+            "guid": "beefer1use@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USEast",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USE2",
+            "guid": "beefer1use2@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USEast2",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USE3",
+            "guid": "beefer1use3@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USEast3",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USMW",
+            "guid": "beefer1usmw@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USMidWest",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USMW2",
+            "guid": "beefer1usmw2@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USMidWest2",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+		
+            "alias": "USNW",
+            "guid": "beefer1usnw@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USNorthWest",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080, 
+			"type": 5
+        }},
+		{
+            "alias": "USSW",
+            "guid": "beefer1ussw@mailinator.com",
+            "password": "towerpower123",
+            "serverPref": "USSouthWest",
+			"proxy": {
+			"host": "70.166.38.80",
+			"port": 1080,
+			"type": 5
+        }}
+    ]
+}
