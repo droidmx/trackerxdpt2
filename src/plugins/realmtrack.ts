@@ -40,7 +40,7 @@ class RealmTrack {
     private playerTracker: PlayerTracker;
     constructor() {
         this.bot = new Discord.Client();
-        this.bot.login('NDg1MDcxMDIwMzk1NDYyNjU2.DoSs7Q.PoCvuOBOhaGZGrVWLVqdXfZqgZk');
+        this.bot.login('NDk3NTk0MTUxNDA0MDQ0Mjk4.DpnTeA.-AlKK4wMFbZk-vsn6hBU8jFv-nI');
         this.bot.once('ready', () => this.ready = true);
         Client.on('connect', (pd, client: Client) => {
             this.loop(client, true);

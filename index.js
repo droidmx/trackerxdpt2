@@ -59,7 +59,7 @@ client.on('message', async msg => { // START MESSAGE HANDLER
     
 })
 fs.writeFile('./realmtrack-config.json', JSON.stringify(config), console.error);
-client.login('NDg1MDcxMDIwMzk1NDYyNjU2.DoSs7Q.PoCvuOBOhaGZGrVWLVqdXfZqgZk')
+client.login('NDk3NTk0MTUxNDA0MDQ0Mjk4.DpnTeA.-AlKK4wMFbZk-vsn6hBU8jFv-nI')
 const { CLI } = require('./dist');
 new CLI();
 
