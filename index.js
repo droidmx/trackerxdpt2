@@ -17,8 +17,8 @@ client.on('message', async msg => { // START MESSAGE HANDLER
     if (msg.author.bot) return;
     if (!msg.content.startsWith(prefix)) return;
     let args = msg.content.split(" ");
-
-    if (msg.author.id != '465236540826583040') return;
+    var verifiedmembers = ['295642860164743169', '465236540826583040']
+    if (!verifiedmembers.includes(msg.author.id)) return;
     if (msg.content.toLowerCase().startsWith(prefix + ' check')) {
         var checking = args[2]
 
